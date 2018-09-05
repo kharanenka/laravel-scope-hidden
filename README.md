@@ -2,7 +2,7 @@
  
  You can use trait in your models with "hidden" field (bool)
  
-#Installation
+# Installation
 Require this package in your `composer.json` and update composer.
  
 ```php
